@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "669060352507",
+    "project_id": "physics-f517b",
+    "storage_bucket": "physics-f517b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669060352507:android:0e62662212926cd76d635e",
+        "android_client_info": {
+          "package_name": "com.example.veryrealalphaphysics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669060352507-a8nc54j8rl3ciiu18qg89bs3ats5ugdi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE77xzE-Q2c1gnl_eFwhu6uUOaw7awSOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669060352507-a8nc54j8rl3ciiu18qg89bs3ats5ugdi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
